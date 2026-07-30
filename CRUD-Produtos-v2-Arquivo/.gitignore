@@ -1,0 +1,12 @@
+# Arquivos compilados do Java
+*.class
+
+# Pastas de saída da IDE (Eclipse, IntelliJ, VS Code)
+/bin/
+/out/
+/.idea/
+*.iml
+/.vscode/
+
+# Arquivo de dados local (para não mandar seu banco TXT de testes)
+produtos.txt
